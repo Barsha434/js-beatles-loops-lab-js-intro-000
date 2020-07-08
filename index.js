@@ -19,8 +19,8 @@ return arrayFacts;
 function iLoveTheBeatles(num){
   var love=[];
   do {love.push("Ilove the Beatles!")}
-  while (num<15)
   num++;
+  while (num<15)
 }
 return love
 }
