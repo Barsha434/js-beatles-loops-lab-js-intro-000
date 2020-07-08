@@ -20,9 +20,11 @@ return arrayFacts;
 function iLoveTheBeatles(num){
   var love=[];
   var num=0;
-  do {love.push("Ilove the Beatles!")}
+  do {
+    love.push("Ilove the Beatles!")
   num++;
-  while (num<15)
 }
-return love
+while (num<15)
+}
+return love;
 }
