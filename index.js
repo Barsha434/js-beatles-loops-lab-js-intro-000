@@ -16,9 +16,10 @@ while (i<arrayFacts.length){
 }
 return arrayFacts;
 }
+
 function iLoveTheBeatles(num){
   var love=[];
-  var num=1;
+  var num=0;
   do {love.push("Ilove the Beatles!")}
   num++;
   while (num<15)
